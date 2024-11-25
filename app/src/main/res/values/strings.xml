@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">+Idiomas</string>
+    <string name="progress_label">Progresso: %1$d palavras</string>
+    <string name="score_label">Pontuação: %1$d</string>
+    <string name="start_lesson">Iniciar Lição</string>
+    <string name="next_word">Próxima Palavra</string>
+    <string name="correct_answer">Correto!</string>
+    <string name="incorrect_answer">Incorreto. A resposta correta é: %1$s</string>
+    <string name="lesson_completed">Lição concluída!</string>
+    <string name="total_score">Pontuação total: %1$d</string>
+    <string name="fill_all_fields">Preencha todos os campos.</string>
+    <string name="invalid_credentials">Credenciais inválidas!</string>
+    <string name="registration_successful">Registro bem-sucedido!</string>
+    <string name="registration_failed">Falha no registro!</string>
+    <string name="email_already_registered">Email já registrado!</string>
+</resources>
